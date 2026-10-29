@@ -33,6 +33,3 @@ dialog{border:1px solid #536b7760;background:var(--paper);color:var(--ink);max-w
 @media(max-width:820px){.benin-photo{left:51%;top:53%;width:43%;height:30%}}
 
 .deck{touch-action:pan-y}@media(max-width:820px){.display{font-size:clamp(42px,11vw,90px)!important}.meaning h2{font-size:clamp(33px,10.5vw,72px)!important}.conclusion h2{font-size:clamp(36px,11vw,86px)!important}.returning h2{font-size:clamp(42px,11vw,86px)!important}.parthenon h2{font-size:clamp(42px,10.7vw,85px)!important}.cover h1{font-size:clamp(64px,17vw,132px)!important}.head-figure{right:-2%;width:55%;height:44%;bottom:1%}.returning-question{max-width:43%;background:transparent;padding:0;bottom:12%}}
-
-/* Temporary clean capture for the PDF export. */
-.deck-nav,.utilities{display:none!important}.deck{height:100dvh!important}.slide{transition:none!important}
